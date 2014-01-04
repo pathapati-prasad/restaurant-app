@@ -4,7 +4,7 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
-        <property name="java-output-path" value="/RestaurantApp/build/classes"/>
-        <property name="context-root" value="spring-mvc-showcase"/>
+        <property name="java-output-path" value="/restaurant-app/build/classes"/>
+        <property name="context-root" value="restaurant-app"/>
     </wb-module>
 </project-modules>
