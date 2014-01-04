@@ -1,0 +1,26 @@
+BODY {
+	width: 964px;
+}
+
+.header {
+	/*background-color: gray;
+	display: inline; */
+	height: 75px;
+}
+
+.logo {
+	width : 200px;
+	float:left;
+}
+
+.content {
+	height : 500px;
+	vertical-align: top;
+}
+
+.footer {
+	color: gray;
+	font-size: 0.9 em;
+	text-align: center;
+}
+
